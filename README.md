@@ -51,5 +51,5 @@ A full data pipeline project that ingests, transforms, and analyzes police incid
 * 💼 [Linkedin](https://www.linkedin.com/in/trandyf)
 * 📫 Email: [randyfun16@gmail.com](mailto:randyfun16@gmail.com)
 
-Thanks for visiting my profile!
+Thanks for visiting my profile and feel free to check out some projects in my github !
 
